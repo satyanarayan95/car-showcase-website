@@ -6,7 +6,7 @@
 
 ![name](https://img.shields.io/badge/Satya--Narayan--Patra-Software--Developer-green)
 
-## [live url]((https://car-showcase-website-six.vercel.app/)
+## [live url](https://car-showcase-website-six.vercel.app/)
 
 ## Skills Gained in this project
     -   Learned NextJS 13.
